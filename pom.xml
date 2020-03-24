@@ -9,4 +9,8 @@
     <version>1.0</version>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>server</module>
+    </modules>
+
 </project>
